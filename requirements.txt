@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langserve
+langgraph
+langchain-core
+langchain-community
+sse_starlette
+google-generativeai
+langchain-google-genai
+pyngrok
+faiss-cpu
+pypdf
+tiktoken
